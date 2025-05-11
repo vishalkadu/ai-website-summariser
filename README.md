@@ -1,2 +1,2 @@
 # ai-website-summariser
-A Simple Website Summariser APP
+A Simple Website Summariser APP and Brochure Maker
